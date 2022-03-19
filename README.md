@@ -1,2 +1,2 @@
 # chausie-script
-My programming language
+An earlier attempt at making my programming language that didn't get very far
